@@ -1,12 +1,14 @@
-# Sims 4 DLC Tool
+# Sims 4 DLC Unlocker Tool
 
 An all-in one universal tool that automatically  unlocks DLCs in **Sims 4**, both in modded and unmodded versions of the game, currently working on Steam, Epic Games and EA Play versions of the game. 
 
 ---
 
-## 🔗 Latest Release
+## 🔗 Latest Release 
 
-- **💾 Version 2.4.0.6**
+- **💾 Version 2.4.0.6** – *Tool files & folders*  
+  👉 [The Latest Release]()
+  
 ---
 
 ## **Supported DLC**
